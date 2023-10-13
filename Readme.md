@@ -14,8 +14,7 @@
 
 ## Deployent Link of Type-N-speek App :- 
 
-              https://preeminent-dolphin-ef6920.netlify.app/
-
+             https://incandescent-nasturtium-5f2ad2.netlify.app
 
 ## Github Link of Type-N-speek App:-
              
